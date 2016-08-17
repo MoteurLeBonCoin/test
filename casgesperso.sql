@@ -4,7 +4,7 @@
 /*==============================================================*/
 
 
-alter table E_CLIENT
+alter table E_CLIENTvfy
    drop constraint FK_E_CLIENT_R_CARACTE_E_DOMAIN;
 
 alter table E_CLIENT
