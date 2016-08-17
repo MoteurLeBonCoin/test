@@ -4,7 +4,7 @@
 /*==============================================================*/
 
 
-alter table E_CLIENTz
+alter table E_CLIENTzd
    drop constraint FK_E_CLIENT_R_CARACTE_E_DOMAIN;
 
 alter table E_CLIENT
