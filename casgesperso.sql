@@ -4,7 +4,11 @@
 /*==============================================================*/
 
 
+<<<<<<< HEAD
 alter table E_CLIENTvfy
+=======
+alter table E_CLIENTz
+>>>>>>> parent of cc1d9b7... er
    drop constraint FK_E_CLIENT_R_CARACTE_E_DOMAIN;
 
 alter table E_CLIENT
